@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_qLateOperations" value="name:CompanyNumber;datatype:,name:CutNumber;datatype:,name:Style;datatype:,name:Color;datatype:,name:IssueDate;datatype:,name:DueDate;datatype:,name:Issued;datatype:,name:Comments;datatype:,name:PlanDate;datatype:,name:Operation;datatype:,name:PersonInCharge;datatype:,name:Status;datatype:,name:Type;datatype:" />
+	<infoitem key="UD_qProductionOperationIssue" value="name:CutNumber;datatype:,name:Style;datatype:,name:Color;datatype:,name:PlanDate;datatype:,name:Comments;datatype:,name:Status;datatype:,name:StatusCode;datatype:,name:Operation;datatype:,name:PersonInCharge;datatype:" />
+	<infoitem key="UD_qProductionOperation" value="name:CutNumber;datatype:,name:Style;datatype:,name:Color;datatype:,name:PlanDate;datatype:,name:Comments;datatype:,name:Operation;datatype:,name:PersonInCharge;datatype:" />
+	<infoitem key="UD_qSamples" value="name:SampleRequestID;datatype:,name:StyleName;datatype:,name:SampleType;datatype:,name:ProductionTeamLeader;datatype:,name:ProductionPatternMaker;datatype:,name:FirstPatternMaker;datatype:,name:Status;datatype:,name:Comments;datatype:,name:LastMaintainedBy;datatype:,name:LastMaintainedDate;datatype:,name:PatternStatus;datatype:" />
+</info>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.cfm" server="M:/wwwroot/mochi/" local="130289398036441976" remote="130289398030000000" Dst="1" />
+<file name="updateOpenProductionSamplesFromAS400.cfm" server="M:/wwwroot/mochi/" local="128649688285625000" remote="128649688280000000" Dst="-1" />
+<file name="updateOpenProductionSamplesHasOrderFromAS400.cfm" server="M:/wwwroot/mochi/" local="128650444770312500" remote="128650444770000000" Dst="-1" />
+<file name="getOpenCutsFromAS400.cfm" server="M:/wwwroot/mochi/" local="128735920846406250" remote="128735920840000000" Dst="-1" />
+<file name="getNewOpenCutsFromAS400.cfm" server="M:/wwwroot/mochi/" local="128745523832031250" remote="128745523830000000" Dst="-1" />
+<file name="updateContractorsFromAS400.cfm" server="M:/wwwroot/mochi/" local="128684139367031250" remote="128684139360000000" Dst="-1" />
+<file name="closeOpenCutsFromAS400.cfm" server="M:/wwwroot/mochi/" local="128684198006250000" remote="128684198000000000" Dst="-1" />
+<file name="updateOpenProductionSamplesDateWithoutCuts.cfm" server="M:/wwwroot/mochi/" local="128685652891250000" remote="128685652890000000" Dst="-1" />
+<file name="reuploadCutInCompanyOneFromAS400.cfm" server="M:/wwwroot/mochi/" local="128698937555000000" remote="128698937550000000" Dst="-1" />
+<file name="reuploadCutInCompanyThreeFromAS400.cfm" server="M:/wwwroot/mochi/" local="128699662741718750" remote="128699662740000000" Dst="-1" />
+<file name="updateReordersInTheChart.cfm" server="M:/wwwroot/mochi/" local="128698102058125000" remote="128698102050000000" Dst="-1" />
+<file name="updateStyleColorDeliveryDate.cfm" server="M:/wwwroot/mochi/" local="128702339217500000" remote="128702339210000000" Dst="-1" />
+<file name="updateColorDeliveryDate.cfm" server="M:/wwwroot/mochi/" local="128708375416562500" remote="128708375410000000" Dst="-1" />
+<file name="updateStylesWithBeading.cfm" server="M:/wwwroot/mochi/" local="128708268872031250" remote="128708268870000000" Dst="-1" />
+<file name="emailLateNotCompletedOperations.cfm" server="M:/wwwroot/mochi/" local="128666298300000000" remote="128666298300000000" Dst="-1" />
+<file name="reuploadCutInCompanyOneFromAS400.cfm" server="H:/wwwroot/mochi/" local="128698937555000000" remote="128698937550000000" Dst="-1" />
+<file name="index.cfm" server="H:/wwwroot/mochi/" local="128735946999062500" remote="128735946990000000" Dst="-1" />
+<file name="getNewOpenCutsFromAS400.cfm" server="H:/wwwroot/mochi/" local="128745523832031250" remote="128745523830000000" Dst="-1" />
+<file name="getOpenCutsFromAS400.cfm" server="H:/wwwroot/mochi/" local="128735920846406250" remote="128735920840000000" Dst="-1" />
+<file name="index.cfm" server="N:/wwwroot/mochi/" local="130289398036441976" remote="130289398030000000" Dst="1" />
+<file name="updateTadashiRetailStorePrice.cfm" server="N:/wwwroot/mochi/" local="128983914315625000" remote="128983914310000000" Dst="-1" />
+<file name="updateLeadTimeCutsFromAS400.cfm" server="N:/wwwroot/mochi/" local="129189548031562500" remote="129189548030000000" Dst="-1" />
+<file name="updateContractorInformationInCutSummary.cfm" server="N:/wwwroot/mochi/" local="129189558465000000" remote="129189558460000000" Dst="-1" />
+<file name="createSellingReportTable.cfm" server="N:/wwwroot/mochi/" local="130075299318420484" remote="130075299310000000" Dst="-1" />
+<file name="createNordstromSellingCheck.cfm" server="N:/wwwroot/mochi/" local="130072568280644236" remote="130072568280000000" Dst="-1" />
+<file name="createNordstromSellingCheck.cfm" server="M:/wwwroot/mochi/" local="130077660715803142" remote="130077660710000000" Dst="-1" />
+<file name="createSellingReportTable.cfm" server="M:/wwwroot/mochi/" local="130078730624908186" remote="130078730620000000" Dst="-1" />
+<file name="createOrdersFromCuttingTickets.cfm" server="M:/wwwroot/mochi/" local="129127256690000000" remote="129127256690000000" Dst="-1" />
+<file name="updateContractorInformationInCutSummary.cfm" server="M:/wwwroot/mochi/" local="129189558465000000" remote="129189558460000000" Dst="-1" />
+<file name="updateLeadTimeCutsFromAS400.cfm" server="M:/wwwroot/mochi/" local="129189548031562500" remote="129189548030000000" Dst="-1" />
+<file name="updateTadashiRetailStorePrice.cfm" server="M:/wwwroot/mochi/" local="128983914315625000" remote="128983914310000000" Dst="-1" />
+<file name="createSaksSellingCheck.cfm" server="M:/wwwroot/mochi/" local="130077677961210201" remote="130077677960000000" Dst="-1" />
+<file name="createOtherMajorsSellingCheck.cfm" server="M:/wwwroot/mochi/" local="130136512300155308" remote="130136512300000000" Dst="-1" />
+<file name="createOtherMajorsSellingColorCheck.cfm" server="M:/wwwroot/mochi/" local="130136510308618300" remote="130136510300000000" Dst="-1" />
+<file name="updateNordstromOrderTypes.cfm" server="M:/wwwroot/mochi/" local="130187455098869585" remote="130187455090000000" Dst="-1" />
+<file name="refreshStylesStatistics.cfm" server="M:/wwwroot/mochi/" local="130289423028168992" remote="130289423020000000" Dst="1" />
+<file name="refreshStylesStatistics.cfm" server="N:/wwwroot/mochi/" local="130289423028168992" remote="130289423020000000" Dst="1" />
+</dwsync>

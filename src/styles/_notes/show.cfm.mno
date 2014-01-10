@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_style" value="name:StyleID;datatype:,name:StyleName;datatype:,name:Description;datatype:,name:CreatedBy;datatype:,name:ProductionTeamLeader;datatype:,name:ProductionPatternMaker;datatype:,name:FirstPatternMaker;datatype:,name:CareInformation;datatype:,name:CreatedDate;datatype:,name:LastMaintainedBy;datatype:,name:LastMaintainedDate;datatype:,name:ThumbnailFile;datatype:" />
+</info>

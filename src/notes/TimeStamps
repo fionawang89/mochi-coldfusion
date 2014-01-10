@@ -1,0 +1,36 @@
+// Timestamps for update
+	<cfinput type="hidden" name="createdby" value="#GetAuthUser()#">  
+	<cfinput type="hidden" name="createddate" value="#user.getCreatedDate()#">
+	<cfinput type="hidden" name="lastmaintainedby" value="#GetAuthUser()#">
+	<cfinput type="hidden" name="lastmaintaineddate" value="#DateFormat(CreateODBCDate(Now()), 'm/d/yyyy') & ' ' & TimeFormat(CreateODBCTime(Now()), 'hh:mm:ss tt')#">    
+
+
+
+
+// Timestamps for add
+
+
+	<cfinput type="hidden" name="createdby" value="#GetAuthUser()#">  
+	<cfinput type="hidden" name="createddate" value="#DateFormat(CreateODBCDate(Now()), 'm/d/yyyy') & ' ' & TimeFormat(CreateODBCTime(Now()), 'hh:mm:ss tt')#">
+	<cfinput type="hidden" name="lastmaintainedby" value="#GetAuthUser()#">
+	<cfinput type="hidden" name="lastmaintaineddate" value="#DateFormat(CreateODBCDate(Now()), 'm/d/yyyy') & ' ' & TimeFormat(CreateODBCTime(Now()), 'hh:mm:ss tt')#">    
+
+
+// Timestamps for show
+
+	  <tr>
+	    <th scope="row">Created By :</th>
+	    <td>#PatternMaker.getCreatedBy()#</td>
+	  </tr>
+	  <tr>
+	    <th scope="row">Created Date :</th>
+	    <td>#PatternMaker.getCreatedDate()#</td>
+	  </tr>
+	  <tr>
+	    <th scope="row">Last Maintained By :</th>
+	    <td>#PatternMaker.getLastMaintainedBy()#</td>
+	  </tr>
+	  <tr>
+	    <th scope="row">Last Maintained Date :</th>
+	    <td>#PatternMaker.getLastMaintainedDate()#</td>
+	  </tr>

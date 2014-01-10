@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cuts" value="name:CutNumber;datatype:" />
+	<infoitem key="UD_styles" value="name:Style;datatype:" />
+	<infoitem key="UD_productionProgressHeaders" value="name:ProductionProgressID;datatype:,name:CompanyNumber;datatype:,name:CutNumber;datatype:,name:Style;datatype:,name:Color;datatype:,name:IssueDate;datatype:,name:DueDate;datatype:,name:Issued;datatype:,name:Contractor;datatype:,name:Status;datatype:,name:Comments;datatype:,name:CreatedBy;datatype:,name:CreatedDate;datatype:,name:LastMaintainedBy;datatype:,name:LastMaintainedDate;datatype:" />
+</info>

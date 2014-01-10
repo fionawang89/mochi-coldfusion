@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_qSourcings" value="name:FabricSourcingID;datatype:,name:Vendor;datatype:,name:Comments;datatype:,name:LastMaintainedDate;datatype:" />
+	<infoitem key="UD_qLabDips" value="name:FabricLabDipID;datatype:,name:Status;datatype:,name:Comments;datatype:,name:SubmitDate;datatype:" />
+	<infoitem key="UD_qOrders" value="name:FabricSampleOrderID;datatype:,name:Vendor;datatype:,name:OrderDate;datatype:,name:SampleYardage;datatype:,name:Comments;datatype:,name:Status;datatype:" />
+</info>

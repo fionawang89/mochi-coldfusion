@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_operationsProcesses" value="name:OperationProcessID;datatype:,name:ProcessID;datatype:,name:OperationID;datatype:,name:Sequence;datatype:,name:Dependency;datatype:,name:PersonInCharge;datatype:,name:CreatedBy;datatype:,name:CreatedDate;datatype:,name:LastMaintainedBy;datatype:,name:LastMaintainedDate;datatype:" />
+</info>
