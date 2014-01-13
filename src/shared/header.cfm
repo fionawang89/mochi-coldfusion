@@ -7,7 +7,7 @@
 </head>
 <body>
 <cfmenu name="menu" type="horizontal" fontsize="14">
-	<cfmenuitem name="production" href="/mochi/productionProgress/index.cfm" display="Production"/>      
+	<cfmenuitem name="production" href="/mochi/productionProgress/index.cfm" display="Production" class="test"/>      
 	<cfmenuitem name="productionReports" href="/mochi/productionReports/index.cfm" display="Production Reports"/>      
 	<cfmenuitem name="samples" href="/mochi/sampleRequests/index.cfm" display="Samples"/>    
 	<cfmenuitem name="copyrights" href="/mochi/copyrights/index.cfm" display="Copyrights"/>    
