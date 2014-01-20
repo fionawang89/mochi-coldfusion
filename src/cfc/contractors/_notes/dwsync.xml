@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Contractor.cfc" server="M:/wwwroot/mochi/" local="128627209550000000" remote="128627209550000000" />
-<file name="ContractorDAO.cfc" server="M:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" />
-<file name="ContractorGateway.cfc" server="M:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" />
-<file name="Contractor.cfc" server="H:/wwwroot/mochi/" local="128627209550000000" remote="128627209550000000" />
-<file name="ContractorDAO.cfc" server="H:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" />
-<file name="ContractorGateway.cfc" server="H:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" />
-<file name="ContractorGateway.cfc" server="N:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" />
+<file name="Contractor.cfc" server="M:/wwwroot/mochi/" local="128627209550000000" remote="128627209550000000" Dst="-1" />
+<file name="ContractorDAO.cfc" server="M:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" Dst="-1" />
+<file name="ContractorGateway.cfc" server="M:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" Dst="-1" />
+<file name="Contractor.cfc" server="H:/wwwroot/mochi/" local="128627209550000000" remote="128627209550000000" Dst="-1" />
+<file name="ContractorDAO.cfc" server="H:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" Dst="-1" />
+<file name="ContractorGateway.cfc" server="H:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" Dst="-1" />
+<file name="ContractorGateway.cfc" server="N:/wwwroot/mochi/" local="128627194940000000" remote="128627194940000000" Dst="-1" />
+<file name="Contractor.cfc" server="V:/wwwroot/mochi/" local="130338497633183790" remote="130338497630000000" Dst="1" />
+<file name="ContractorDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633203790" remote="130338497630000000" Dst="1" />
+<file name="ContractorGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633213790" remote="130338497630000000" Dst="1" />
 </dwsync>

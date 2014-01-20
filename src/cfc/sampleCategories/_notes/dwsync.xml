@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="SampleCategory.cfc" server="M:/wwwroot/mochi/" local="128627440110000000" remote="128627440110000000" />
-<file name="SampleCategoryDAO.cfc" server="M:/wwwroot/mochi/" local="128627439830000000" remote="128627439830000000" />
-<file name="SampleCategoryGateway.cfc" server="M:/wwwroot/mochi/" local="128627439840000000" remote="128627439840000000" />
-<file name="SampleCategory.cfc" server="H:/wwwroot/mochi/" local="128627440110000000" remote="128627440110000000" />
-<file name="SampleCategoryDAO.cfc" server="H:/wwwroot/mochi/" local="128627439830000000" remote="128627439830000000" />
-<file name="SampleCategoryGateway.cfc" server="H:/wwwroot/mochi/" local="128627439840000000" remote="128627439840000000" />
+<file name="SampleCategory.cfc" server="M:/wwwroot/mochi/" local="128627440110000000" remote="128627440110000000" Dst="-1" />
+<file name="SampleCategoryDAO.cfc" server="M:/wwwroot/mochi/" local="128627439830000000" remote="128627439830000000" Dst="-1" />
+<file name="SampleCategoryGateway.cfc" server="M:/wwwroot/mochi/" local="128627439840000000" remote="128627439840000000" Dst="-1" />
+<file name="SampleCategory.cfc" server="H:/wwwroot/mochi/" local="128627440110000000" remote="128627440110000000" Dst="-1" />
+<file name="SampleCategoryDAO.cfc" server="H:/wwwroot/mochi/" local="128627439830000000" remote="128627439830000000" Dst="-1" />
+<file name="SampleCategoryGateway.cfc" server="H:/wwwroot/mochi/" local="128627439840000000" remote="128627439840000000" Dst="-1" />
+<file name="SampleCategory.cfc" server="V:/wwwroot/mochi/" local="130338497636183790" remote="130338497630000000" Dst="1" />
+<file name="SampleCategoryDAO.cfc" server="V:/wwwroot/mochi/" local="130338497636203790" remote="130338497630000000" Dst="1" />
+<file name="SampleCategoryGateway.cfc" server="V:/wwwroot/mochi/" local="130338497636213790" remote="130338497630000000" Dst="1" />
 </dwsync>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Image.cfc" server="M:/wwwroot/mochi/" local="128654647310000000" remote="128654647310000000" />
-<file name="ImageGateway.cfc" server="M:/wwwroot/mochi/" local="129592215109843750" remote="129592215100000000" />
-<file name="ImageDAO.cfc" server="M:/wwwroot/mochi/" local="128654646940000000" remote="128654646940000000" />
-<file name="Image.cfc" server="H:/wwwroot/mochi/" local="128654647310000000" remote="128654647310000000" />
-<file name="ImageDAO.cfc" server="H:/wwwroot/mochi/" local="128654646940000000" remote="128654646940000000" />
-<file name="ImageGateway.cfc" server="H:/wwwroot/mochi/" local="128714515145781250" remote="128714515140000000" />
-<file name="ImageGateway.cfc" server="N:/wwwroot/mochi/" local="129592215109843750" remote="129592215100000000" />
-<file name="Image.cfc" server="N:/wwwroot/mochi/" local="128654647310000000" remote="128654647310000000" />
-<file name="ImageDAO.cfc" server="N:/wwwroot/mochi/" local="128654646940000000" remote="128654646940000000" />
+<file name="Image.cfc" server="M:/wwwroot/mochi/" local="128654647310000000" remote="128654647310000000" Dst="-1" />
+<file name="ImageGateway.cfc" server="M:/wwwroot/mochi/" local="129592215109843750" remote="129592215100000000" Dst="-1" />
+<file name="ImageDAO.cfc" server="M:/wwwroot/mochi/" local="128654646940000000" remote="128654646940000000" Dst="-1" />
+<file name="Image.cfc" server="H:/wwwroot/mochi/" local="128654647310000000" remote="128654647310000000" Dst="-1" />
+<file name="ImageDAO.cfc" server="H:/wwwroot/mochi/" local="128654646940000000" remote="128654646940000000" Dst="-1" />
+<file name="ImageGateway.cfc" server="H:/wwwroot/mochi/" local="128714515145781250" remote="128714515140000000" Dst="-1" />
+<file name="ImageGateway.cfc" server="N:/wwwroot/mochi/" local="129592215109843750" remote="129592215100000000" Dst="-1" />
+<file name="Image.cfc" server="N:/wwwroot/mochi/" local="128654647310000000" remote="128654647310000000" Dst="-1" />
+<file name="ImageDAO.cfc" server="N:/wwwroot/mochi/" local="128654646940000000" remote="128654646940000000" Dst="-1" />
+<file name="Image.cfc" server="V:/wwwroot/mochi/" local="130338497634573790" remote="130338497630000000" Dst="1" />
+<file name="ImageDAO.cfc" server="V:/wwwroot/mochi/" local="130338497634603790" remote="130338497630000000" Dst="1" />
+<file name="ImageGateway.cfc" server="V:/wwwroot/mochi/" local="130338497634633790" remote="130338497630000000" Dst="1" />
 </dwsync>

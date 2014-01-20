@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ImageComment.cfc" server="M:/wwwroot/mochi/" local="128630571390000000" remote="128630571390000000" />
-<file name="ImageCommentGateway.cfc" server="M:/wwwroot/mochi/" local="128630575290000000" remote="128630575290000000" />
-<file name="ImageCommentDAO.cfc" server="M:/wwwroot/mochi/" local="128630571080000000" remote="128630571080000000" />
-<file name="ImageComment.cfc" server="H:/wwwroot/mochi/" local="128630571390000000" remote="128630571390000000" />
-<file name="ImageCommentDAO.cfc" server="H:/wwwroot/mochi/" local="128630571080000000" remote="128630571080000000" />
-<file name="ImageCommentGateway.cfc" server="H:/wwwroot/mochi/" local="128630575290000000" remote="128630575290000000" />
+<file name="ImageComment.cfc" server="M:/wwwroot/mochi/" local="128630571390000000" remote="128630571390000000" Dst="-1" />
+<file name="ImageCommentGateway.cfc" server="M:/wwwroot/mochi/" local="128630575290000000" remote="128630575290000000" Dst="-1" />
+<file name="ImageCommentDAO.cfc" server="M:/wwwroot/mochi/" local="128630571080000000" remote="128630571080000000" Dst="-1" />
+<file name="ImageComment.cfc" server="H:/wwwroot/mochi/" local="128630571390000000" remote="128630571390000000" Dst="-1" />
+<file name="ImageCommentDAO.cfc" server="H:/wwwroot/mochi/" local="128630571080000000" remote="128630571080000000" Dst="-1" />
+<file name="ImageCommentGateway.cfc" server="H:/wwwroot/mochi/" local="128630575290000000" remote="128630575290000000" Dst="-1" />
+<file name="ImageComment.cfc" server="V:/wwwroot/mochi/" local="130338497634473790" remote="130338497630000000" Dst="1" />
+<file name="ImageCommentDAO.cfc" server="V:/wwwroot/mochi/" local="130338497634493790" remote="130338497630000000" Dst="1" />
+<file name="ImageCommentGateway.cfc" server="V:/wwwroot/mochi/" local="130338497634533790" remote="130338497630000000" Dst="1" />
 </dwsync>

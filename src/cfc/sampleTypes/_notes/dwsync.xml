@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="SampleTypeGateway.cfc" server="M:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" />
-<file name="SampleType.cfc" server="M:/wwwroot/mochi/" local="128635598170000000" remote="128635598170000000" />
-<file name="SampleTypeDAO.cfc" server="M:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" />
-<file name="SampleType.cfc" server="H:/wwwroot/mochi/" local="128635598170000000" remote="128635598170000000" />
-<file name="SampleTypeDAO.cfc" server="H:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" />
-<file name="SampleTypeGateway.cfc" server="H:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" />
-<file name="SampleTypeGateway.cfc" server="N:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" />
+<file name="SampleTypeGateway.cfc" server="M:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" Dst="-1" />
+<file name="SampleType.cfc" server="M:/wwwroot/mochi/" local="128635598170000000" remote="128635598170000000" Dst="-1" />
+<file name="SampleTypeDAO.cfc" server="M:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" Dst="-1" />
+<file name="SampleType.cfc" server="H:/wwwroot/mochi/" local="128635598170000000" remote="128635598170000000" Dst="-1" />
+<file name="SampleTypeDAO.cfc" server="H:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" Dst="-1" />
+<file name="SampleTypeGateway.cfc" server="H:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" Dst="-1" />
+<file name="SampleTypeGateway.cfc" server="N:/wwwroot/mochi/" local="128635594520000000" remote="128635594520000000" Dst="-1" />
+<file name="SampleType.cfc" server="V:/wwwroot/mochi/" local="130338497636413790" remote="130338497630000000" Dst="1" />
+<file name="SampleTypeDAO.cfc" server="V:/wwwroot/mochi/" local="130338497636433790" remote="130338497630000000" Dst="1" />
+<file name="SampleTypeGateway.cfc" server="V:/wwwroot/mochi/" local="130338497636443790" remote="130338497630000000" Dst="1" />
 </dwsync>

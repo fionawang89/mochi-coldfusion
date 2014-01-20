@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Color.cfc" server="M:/wwwroot/mochi/" local="128629916140000000" remote="128629916140000000" />
-<file name="ColorGateway.cfc" server="M:/wwwroot/mochi/" local="128643520700000000" remote="128643520700000000" />
-<file name="ColorDAO.cfc" server="M:/wwwroot/mochi/" local="128629906580000000" remote="128629906580000000" />
-<file name="Color.cfc" server="H:/wwwroot/mochi/" local="128629916140000000" remote="128629916140000000" />
-<file name="ColorDAO.cfc" server="H:/wwwroot/mochi/" local="128629906580000000" remote="128629906580000000" />
-<file name="ColorGateway.cfc" server="H:/wwwroot/mochi/" local="128643520700000000" remote="128643520700000000" />
-<file name="ColorGateway.cfc" server="N:/wwwroot/mochi/" local="128643520700000000" remote="128643520700000000" />
+<file name="Color.cfc" server="M:/wwwroot/mochi/" local="128629916140000000" remote="128629916140000000" Dst="-1" />
+<file name="ColorGateway.cfc" server="M:/wwwroot/mochi/" local="128643520700000000" remote="128643520700000000" Dst="-1" />
+<file name="ColorDAO.cfc" server="M:/wwwroot/mochi/" local="128629906580000000" remote="128629906580000000" Dst="-1" />
+<file name="Color.cfc" server="H:/wwwroot/mochi/" local="128629916140000000" remote="128629916140000000" Dst="-1" />
+<file name="ColorDAO.cfc" server="H:/wwwroot/mochi/" local="128629906580000000" remote="128629906580000000" Dst="-1" />
+<file name="ColorGateway.cfc" server="H:/wwwroot/mochi/" local="128643520700000000" remote="128643520700000000" Dst="-1" />
+<file name="ColorGateway.cfc" server="N:/wwwroot/mochi/" local="128643520700000000" remote="128643520700000000" Dst="-1" />
+<file name="Color.cfc" server="V:/wwwroot/mochi/" local="130338497633133790" remote="130338497630000000" Dst="1" />
+<file name="ColorDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633153790" remote="130338497630000000" Dst="1" />
+<file name="ColorGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633163790" remote="130338497630000000" Dst="1" />
 </dwsync>

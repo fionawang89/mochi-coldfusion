@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="FittingComment.cfc" server="M:/wwwroot/mochi/" local="128628770910000000" remote="128628770910000000" />
-<file name="FittingCommentGateway.cfc" server="M:/wwwroot/mochi/" local="128628816730000000" remote="128628816730000000" />
-<file name="FittingCommentDAO.cfc" server="M:/wwwroot/mochi/" local="128628765690000000" remote="128628765690000000" />
-<file name="FittingComment.cfc" server="H:/wwwroot/mochi/" local="128628770910000000" remote="128628770910000000" />
-<file name="FittingCommentDAO.cfc" server="H:/wwwroot/mochi/" local="128628765690000000" remote="128628765690000000" />
-<file name="FittingCommentGateway.cfc" server="H:/wwwroot/mochi/" local="128628816730000000" remote="128628816730000000" />
+<file name="FittingComment.cfc" server="M:/wwwroot/mochi/" local="128628770910000000" remote="128628770910000000" Dst="-1" />
+<file name="FittingCommentGateway.cfc" server="M:/wwwroot/mochi/" local="128628816730000000" remote="128628816730000000" Dst="-1" />
+<file name="FittingCommentDAO.cfc" server="M:/wwwroot/mochi/" local="128628765690000000" remote="128628765690000000" Dst="-1" />
+<file name="FittingComment.cfc" server="H:/wwwroot/mochi/" local="128628770910000000" remote="128628770910000000" Dst="-1" />
+<file name="FittingCommentDAO.cfc" server="H:/wwwroot/mochi/" local="128628765690000000" remote="128628765690000000" Dst="-1" />
+<file name="FittingCommentGateway.cfc" server="H:/wwwroot/mochi/" local="128628816730000000" remote="128628816730000000" Dst="-1" />
+<file name="FittingComment.cfc" server="V:/wwwroot/mochi/" local="130338497634323790" remote="130338497630000000" Dst="1" />
+<file name="FittingCommentDAO.cfc" server="V:/wwwroot/mochi/" local="130338497634333790" remote="130338497630000000" Dst="1" />
+<file name="FittingCommentGateway.cfc" server="V:/wwwroot/mochi/" local="130338497634363790" remote="130338497630000000" Dst="1" />
 </dwsync>

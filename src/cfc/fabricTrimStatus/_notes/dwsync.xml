@@ -6,4 +6,7 @@
 <file name="FabricTrimStatus.cfc" server="N:/wwwroot/mochi/" local="130316986330556347" remote="130316986330000000" Dst="1" />
 <file name="FabricTrimStatusDAO.cfc" server="N:/wwwroot/mochi/" local="130316985680095923" remote="130316985680000000" Dst="1" />
 <file name="FabricTrimStatusGateway.cfc" server="N:/wwwroot/mochi/" local="130316985682439643" remote="130316985680000000" Dst="1" />
+<file name="FabricTrimStatus.cfc" server="V:/wwwroot/mochi/" local="130338497634263790" remote="130338497630000000" Dst="1" />
+<file name="FabricTrimStatusDAO.cfc" server="V:/wwwroot/mochi/" local="130338497634273790" remote="130338497630000000" Dst="1" />
+<file name="FabricTrimStatusGateway.cfc" server="V:/wwwroot/mochi/" local="130338497634293790" remote="130338497630000000" Dst="1" />
 </dwsync>

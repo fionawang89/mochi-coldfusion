@@ -9,4 +9,7 @@
 <file name="SampleProgressGateway.cfc" server="N:/wwwroot/mochi/" local="130318794581599499" remote="130318794580000000" Dst="1" />
 <file name="SampleProgress.cfc" server="N:/wwwroot/mochi/" local="130318796281510966" remote="130318796280000000" Dst="1" />
 <file name="SampleProgressDAO.cfc" server="N:/wwwroot/mochi/" local="130318794485696166" remote="130318794480000000" Dst="1" />
+<file name="SampleProgress.cfc" server="V:/wwwroot/mochi/" local="130338497636233790" remote="130338497630000000" Dst="1" />
+<file name="SampleProgressDAO.cfc" server="V:/wwwroot/mochi/" local="130338497636253790" remote="130338497630000000" Dst="1" />
+<file name="SampleProgressGateway.cfc" server="V:/wwwroot/mochi/" local="130338497636263790" remote="130338497630000000" Dst="1" />
 </dwsync>

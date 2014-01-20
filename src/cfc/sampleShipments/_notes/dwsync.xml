@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="SampleShipment.cfc" server="M:/wwwroot/mochi/" local="128660640600000000" remote="128660640600000000" />
-<file name="SampleShipmentGateway.cfc" server="M:/wwwroot/mochi/" local="128653803720000000" remote="128653803720000000" />
-<file name="SampleShipmentDAO.cfc" server="M:/wwwroot/mochi/" local="128653784480000000" remote="128653784480000000" />
-<file name="SampleShipment.cfc" server="H:/wwwroot/mochi/" local="128660640600000000" remote="128660640600000000" />
-<file name="SampleShipmentDAO.cfc" server="H:/wwwroot/mochi/" local="128653784480000000" remote="128653784480000000" />
-<file name="SampleShipmentGateway.cfc" server="H:/wwwroot/mochi/" local="128653803720000000" remote="128653803720000000" />
-<file name="SampleShipmentGateway.cfc" server="N:/wwwroot/mochi/" local="128653803720000000" remote="128653803720000000" />
+<file name="SampleShipment.cfc" server="M:/wwwroot/mochi/" local="128660640600000000" remote="128660640600000000" Dst="-1" />
+<file name="SampleShipmentGateway.cfc" server="M:/wwwroot/mochi/" local="128653803720000000" remote="128653803720000000" Dst="-1" />
+<file name="SampleShipmentDAO.cfc" server="M:/wwwroot/mochi/" local="128653784480000000" remote="128653784480000000" Dst="-1" />
+<file name="SampleShipment.cfc" server="H:/wwwroot/mochi/" local="128660640600000000" remote="128660640600000000" Dst="-1" />
+<file name="SampleShipmentDAO.cfc" server="H:/wwwroot/mochi/" local="128653784480000000" remote="128653784480000000" Dst="-1" />
+<file name="SampleShipmentGateway.cfc" server="H:/wwwroot/mochi/" local="128653803720000000" remote="128653803720000000" Dst="-1" />
+<file name="SampleShipmentGateway.cfc" server="N:/wwwroot/mochi/" local="128653803720000000" remote="128653803720000000" Dst="-1" />
+<file name="SampleShipment.cfc" server="V:/wwwroot/mochi/" local="130338497636363790" remote="130338497630000000" Dst="1" />
+<file name="SampleShipmentDAO.cfc" server="V:/wwwroot/mochi/" local="130338497636373790" remote="130338497630000000" Dst="1" />
+<file name="SampleShipmentGateway.cfc" server="V:/wwwroot/mochi/" local="130338497636383790" remote="130338497630000000" Dst="1" />
 </dwsync>

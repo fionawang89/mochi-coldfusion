@@ -6,4 +6,7 @@
 <file name="CounterSampleStatusGateway.cfc" server="N:/wwwroot/mochi/" local="130317022690386227" remote="130317022690000000" Dst="1" />
 <file name="CounterSampleStatus.cfc" server="N:/wwwroot/mochi/" local="130317024770047107" remote="130317024770000000" Dst="1" />
 <file name="CounterSampleStatusDAO.cfc" server="N:/wwwroot/mochi/" local="130317022687730011" remote="130317022680000000" Dst="1" />
+<file name="CounterSampleStatus.cfc" server="V:/wwwroot/mochi/" local="130338497633563790" remote="130338497630000000" Dst="1" />
+<file name="CounterSampleStatusDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633573790" remote="130338497630000000" Dst="1" />
+<file name="CounterSampleStatusGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633583790" remote="130338497630000000" Dst="1" />
 </dwsync>

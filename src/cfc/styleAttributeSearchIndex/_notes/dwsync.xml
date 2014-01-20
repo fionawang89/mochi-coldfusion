@@ -6,4 +6,7 @@
 <file name="StyleAttributeSearchIndex.cfc" server="M:/wwwroot/mochi/" local="130292799228187338" remote="130292799220000000" Dst="1" />
 <file name="StyleAttributeSearchIndexDAO.cfc" server="M:/wwwroot/mochi/" local="130292798925536899" remote="130292798920000000" Dst="1" />
 <file name="StyleAttributeSearchIndexGateway.cfc" server="M:/wwwroot/mochi/" local="130292798928193098" remote="130292798920000000" Dst="1" />
+<file name="StyleAttributeSearchIndex.cfc" server="V:/wwwroot/mochi/" local="130338497636603790" remote="130338497630000000" Dst="1" />
+<file name="StyleAttributeSearchIndexDAO.cfc" server="V:/wwwroot/mochi/" local="130338497636623790" remote="130338497630000000" Dst="1" />
+<file name="StyleAttributeSearchIndexGateway.cfc" server="V:/wwwroot/mochi/" local="130338497636633790" remote="130338497630000000" Dst="1" />
 </dwsync>

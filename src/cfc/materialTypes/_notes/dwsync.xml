@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="MaterialTypeGateway.cfc" server="M:/wwwroot/mochi/" local="128656517960000000" remote="128656517960000000" />
-<file name="MaterialType.cfc" server="M:/wwwroot/mochi/" local="128656525870000000" remote="128656525870000000" />
-<file name="MaterialTypeDAO.cfc" server="M:/wwwroot/mochi/" local="128656517950000000" remote="128656517950000000" />
-<file name="MaterialTypeGateway.cfc" server="H:/wwwroot/mochi/" local="128656517960000000" remote="128656517960000000" />
-<file name="MaterialType.cfc" server="H:/wwwroot/mochi/" local="128656525870000000" remote="128656525870000000" />
-<file name="MaterialTypeDAO.cfc" server="H:/wwwroot/mochi/" local="128656517950000000" remote="128656517950000000" />
-<file name="MaterialTypeGateway.cfc" server="N:/wwwroot/mochi/" local="128656517960000000" remote="128656517960000000" />
+<file name="MaterialTypeGateway.cfc" server="M:/wwwroot/mochi/" local="128656517960000000" remote="128656517960000000" Dst="-1" />
+<file name="MaterialType.cfc" server="M:/wwwroot/mochi/" local="128656525870000000" remote="128656525870000000" Dst="-1" />
+<file name="MaterialTypeDAO.cfc" server="M:/wwwroot/mochi/" local="128656517950000000" remote="128656517950000000" Dst="-1" />
+<file name="MaterialTypeGateway.cfc" server="H:/wwwroot/mochi/" local="128656517960000000" remote="128656517960000000" Dst="-1" />
+<file name="MaterialType.cfc" server="H:/wwwroot/mochi/" local="128656525870000000" remote="128656525870000000" Dst="-1" />
+<file name="MaterialTypeDAO.cfc" server="H:/wwwroot/mochi/" local="128656517950000000" remote="128656517950000000" Dst="-1" />
+<file name="MaterialTypeGateway.cfc" server="N:/wwwroot/mochi/" local="128656517960000000" remote="128656517960000000" Dst="-1" />
+<file name="MaterialType.cfc" server="V:/wwwroot/mochi/" local="130338497634973790" remote="130338497630000000" Dst="1" />
+<file name="MaterialTypeDAO.cfc" server="V:/wwwroot/mochi/" local="130338497634983790" remote="130338497630000000" Dst="1" />
+<file name="MaterialTypeGateway.cfc" server="V:/wwwroot/mochi/" local="130338497635003790" remote="130338497630000000" Dst="1" />
 </dwsync>

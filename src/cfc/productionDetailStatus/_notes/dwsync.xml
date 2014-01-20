@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ProductionDetailStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" />
-<file name="ProductionDetailStatus.cfc" server="M:/wwwroot/mochi/" local="128684970450000000" remote="128684970450000000" />
-<file name="ProductionDetailStatusDAO.cfc" server="M:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" />
-<file name="ProductionDetailStatus.cfc" server="H:/wwwroot/mochi/" local="128684970450000000" remote="128684970450000000" />
-<file name="ProductionDetailStatusDAO.cfc" server="H:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" />
-<file name="ProductionDetailStatusGateway.cfc" server="H:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" />
+<file name="ProductionDetailStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" Dst="-1" />
+<file name="ProductionDetailStatus.cfc" server="M:/wwwroot/mochi/" local="128684970450000000" remote="128684970450000000" Dst="-1" />
+<file name="ProductionDetailStatusDAO.cfc" server="M:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" Dst="-1" />
+<file name="ProductionDetailStatus.cfc" server="H:/wwwroot/mochi/" local="128684970450000000" remote="128684970450000000" Dst="-1" />
+<file name="ProductionDetailStatusDAO.cfc" server="H:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" Dst="-1" />
+<file name="ProductionDetailStatusGateway.cfc" server="H:/wwwroot/mochi/" local="128684970110000000" remote="128684970110000000" Dst="-1" />
+<file name="ProductionDetailStatus.cfc" server="V:/wwwroot/mochi/" local="130338497635543790" remote="130338497630000000" Dst="1" />
+<file name="ProductionDetailStatusDAO.cfc" server="V:/wwwroot/mochi/" local="130338497635553790" remote="130338497630000000" Dst="1" />
+<file name="ProductionDetailStatusGateway.cfc" server="V:/wwwroot/mochi/" local="130338497635563790" remote="130338497630000000" Dst="1" />
 </dwsync>

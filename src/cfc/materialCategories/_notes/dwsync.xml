@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="MaterialCategoryGateway.cfc" server="M:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" />
-<file name="MaterialCategory.cfc" server="M:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" />
-<file name="MaterialCategoryDAO.cfc" server="M:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" />
-<file name="MaterialCategory.cfc" server="H:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" />
-<file name="MaterialCategoryDAO.cfc" server="H:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" />
-<file name="MaterialCategoryGateway.cfc" server="H:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" />
-<file name="MaterialCategoryGateway.cfc" server="N:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" />
+<file name="MaterialCategoryGateway.cfc" server="M:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" Dst="-1" />
+<file name="MaterialCategory.cfc" server="M:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" Dst="-1" />
+<file name="MaterialCategoryDAO.cfc" server="M:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" Dst="-1" />
+<file name="MaterialCategory.cfc" server="H:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" Dst="-1" />
+<file name="MaterialCategoryDAO.cfc" server="H:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" Dst="-1" />
+<file name="MaterialCategoryGateway.cfc" server="H:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" Dst="-1" />
+<file name="MaterialCategoryGateway.cfc" server="N:/wwwroot/mochi/" local="128696217910000000" remote="128696217910000000" Dst="-1" />
+<file name="MaterialCategory.cfc" server="V:/wwwroot/mochi/" local="130338497634743790" remote="130338497630000000" Dst="1" />
+<file name="MaterialCategoryDAO.cfc" server="V:/wwwroot/mochi/" local="130338497634753790" remote="130338497630000000" Dst="1" />
+<file name="MaterialCategoryGateway.cfc" server="V:/wwwroot/mochi/" local="130338497634783790" remote="130338497630000000" Dst="1" />
 </dwsync>

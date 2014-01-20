@@ -8,4 +8,7 @@
 <file name="pattern.png" server="H:/wwwroot/mochi/" local="128631248670000000" remote="128631248670000000" Dst="-1" />
 <file name="BrowseBack.gif" server="N:/wwwroot/mochi/" local="126300242520000000" remote="126300242520000000" Dst="1" />
 <file name="BrowseNext.gif" server="N:/wwwroot/mochi/" local="126300242380000000" remote="126300242380000000" Dst="1" />
+<file name="BrowseBack.gif" server="V:/wwwroot/mochi/" local="130338497632613790" remote="130338497630000000" Dst="1" />
+<file name="BrowseNext.gif" server="V:/wwwroot/mochi/" local="130338497632623790" remote="130338497630000000" Dst="1" />
+<file name="pattern.png" server="V:/wwwroot/mochi/" local="130338497632683790" remote="130338497630000000" Dst="1" />
 </dwsync>

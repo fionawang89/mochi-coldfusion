@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="PatternStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128733434018593750" remote="128733434010000000" />
-<file name="PatternStatus.cfc" server="M:/wwwroot/mochi/" local="128733272764375000" remote="128733272760000000" />
-<file name="PatternStatusDAO.cfc" server="M:/wwwroot/mochi/" local="128733272316875000" remote="128733272310000000" />
-<file name="PatternStatus.cfc" server="H:/wwwroot/mochi/" local="128733272764375000" remote="128733272760000000" />
-<file name="PatternStatusDAO.cfc" server="H:/wwwroot/mochi/" local="128733272316875000" remote="128733272310000000" />
-<file name="PatternStatusGateway.cfc" server="H:/wwwroot/mochi/" local="128733434018593750" remote="128733434010000000" />
-<file name="PatternStatusGateway.cfc" server="N:/wwwroot/mochi/" local="128733434018593750" remote="128733434010000000" />
+<file name="PatternStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128733434018593750" remote="128733434010000000" Dst="-1" />
+<file name="PatternStatus.cfc" server="M:/wwwroot/mochi/" local="128733272764375000" remote="128733272760000000" Dst="-1" />
+<file name="PatternStatusDAO.cfc" server="M:/wwwroot/mochi/" local="128733272316875000" remote="128733272310000000" Dst="-1" />
+<file name="PatternStatus.cfc" server="H:/wwwroot/mochi/" local="128733272764375000" remote="128733272760000000" Dst="-1" />
+<file name="PatternStatusDAO.cfc" server="H:/wwwroot/mochi/" local="128733272316875000" remote="128733272310000000" Dst="-1" />
+<file name="PatternStatusGateway.cfc" server="H:/wwwroot/mochi/" local="128733434018593750" remote="128733434010000000" Dst="-1" />
+<file name="PatternStatusGateway.cfc" server="N:/wwwroot/mochi/" local="128733434018593750" remote="128733434010000000" Dst="-1" />
+<file name="PatternStatus.cfc" server="V:/wwwroot/mochi/" local="130338497635313790" remote="130338497630000000" Dst="1" />
+<file name="PatternStatusDAO.cfc" server="V:/wwwroot/mochi/" local="130338497635323790" remote="130338497630000000" Dst="1" />
+<file name="PatternStatusGateway.cfc" server="V:/wwwroot/mochi/" local="130338497635333790" remote="130338497630000000" Dst="1" />
 </dwsync>

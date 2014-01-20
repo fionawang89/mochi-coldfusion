@@ -6,4 +6,7 @@
 <file name="StyleAttributeValue.cfc" server="N:/wwwroot/mochi/" local="130288464724197859" remote="130288464720000000" Dst="1" />
 <file name="StyleAttributeValueDAO.cfc" server="N:/wwwroot/mochi/" local="130288524010000000" remote="130288524010000000" Dst="1" />
 <file name="StyleAttributeValueGateway.cfc" server="N:/wwwroot/mochi/" local="130288521887718755" remote="130288521880000000" Dst="1" />
+<file name="StyleAttributeValue.cfc" server="V:/wwwroot/mochi/" local="130338497636673790" remote="130338497630000000" Dst="1" />
+<file name="StyleAttributeValueDAO.cfc" server="V:/wwwroot/mochi/" local="130338497636693790" remote="130338497630000000" Dst="1" />
+<file name="StyleAttributeValueGateway.cfc" server="V:/wwwroot/mochi/" local="130338497636703790" remote="130338497630000000" Dst="1" />
 </dwsync>

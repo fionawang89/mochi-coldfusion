@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="artworkGateway.cfc" server="M:/wwwroot/mochi/" local="128865491727968750" remote="128865491720000000" />
-<file name="Artwork.cfc" server="M:/wwwroot/mochi/" local="128865498230312500" remote="128865498230000000" />
-<file name="ArtworkDAO.cfc" server="M:/wwwroot/mochi/" local="128865491725156250" remote="128865491720000000" />
-<file name="Artwork.cfc" server="N:/wwwroot/mochi/" local="128865498230312500" remote="128865498230000000" />
-<file name="ArtworkGateway.cfc" server="N:/wwwroot/mochi/" local="128865491727968750" remote="128865491720000000" />
+<file name="artworkGateway.cfc" server="M:/wwwroot/mochi/" local="128865491727968750" remote="128865491720000000" Dst="-1" />
+<file name="Artwork.cfc" server="M:/wwwroot/mochi/" local="128865498230312500" remote="128865498230000000" Dst="-1" />
+<file name="ArtworkDAO.cfc" server="M:/wwwroot/mochi/" local="128865491725156250" remote="128865491720000000" Dst="-1" />
+<file name="Artwork.cfc" server="N:/wwwroot/mochi/" local="128865498230312500" remote="128865498230000000" Dst="-1" />
+<file name="ArtworkGateway.cfc" server="N:/wwwroot/mochi/" local="128865491727968750" remote="128865491720000000" Dst="-1" />
+<file name="Artwork.cfc" server="V:/wwwroot/mochi/" local="130338497632813790" remote="130338497630000000" Dst="1" />
+<file name="ArtworkDAO.cfc" server="V:/wwwroot/mochi/" local="130338497632823790" remote="130338497630000000" Dst="1" />
+<file name="ArtworkGateway.cfc" server="V:/wwwroot/mochi/" local="130338497632833790" remote="130338497630000000" Dst="1" />
 </dwsync>

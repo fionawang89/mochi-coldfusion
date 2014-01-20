@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ProcessGateway.cfc" server="M:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" />
-<file name="Process.cfc" server="M:/wwwroot/mochi/" local="128650564220000000" remote="128650564220000000" />
-<file name="ProcessDAO.cfc" server="M:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" />
-<file name="Process.cfc" server="H:/wwwroot/mochi/" local="128650564220000000" remote="128650564220000000" />
-<file name="ProcessDAO.cfc" server="H:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" />
-<file name="ProcessGateway.cfc" server="H:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" />
+<file name="ProcessGateway.cfc" server="M:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" Dst="-1" />
+<file name="Process.cfc" server="M:/wwwroot/mochi/" local="128650564220000000" remote="128650564220000000" Dst="-1" />
+<file name="ProcessDAO.cfc" server="M:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" Dst="-1" />
+<file name="Process.cfc" server="H:/wwwroot/mochi/" local="128650564220000000" remote="128650564220000000" Dst="-1" />
+<file name="ProcessDAO.cfc" server="H:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" Dst="-1" />
+<file name="ProcessGateway.cfc" server="H:/wwwroot/mochi/" local="128650563770000000" remote="128650563770000000" Dst="-1" />
+<file name="Process.cfc" server="V:/wwwroot/mochi/" local="130338497635493790" remote="130338497630000000" Dst="1" />
+<file name="ProcessDAO.cfc" server="V:/wwwroot/mochi/" local="130338497635513790" remote="130338497630000000" Dst="1" />
+<file name="ProcessGateway.cfc" server="V:/wwwroot/mochi/" local="130338497635523790" remote="130338497630000000" Dst="1" />
 </dwsync>

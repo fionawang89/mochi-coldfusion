@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="DeliveryGateway.cfc" server="M:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" />
-<file name="Delivery.cfc" server="M:/wwwroot/mochi/" local="128690093810000000" remote="128690093810000000" />
-<file name="DeliveryDAO.cfc" server="M:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" />
-<file name="Delivery.cfc" server="H:/wwwroot/mochi/" local="128690093810000000" remote="128690093810000000" />
-<file name="DeliveryDAO.cfc" server="H:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" />
-<file name="DeliveryGateway.cfc" server="H:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" />
-<file name="DeliveryGateway.cfc" server="N:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" />
+<file name="DeliveryGateway.cfc" server="M:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" Dst="-1" />
+<file name="Delivery.cfc" server="M:/wwwroot/mochi/" local="128690093810000000" remote="128690093810000000" Dst="-1" />
+<file name="DeliveryDAO.cfc" server="M:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" Dst="-1" />
+<file name="Delivery.cfc" server="H:/wwwroot/mochi/" local="128690093810000000" remote="128690093810000000" Dst="-1" />
+<file name="DeliveryDAO.cfc" server="H:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" Dst="-1" />
+<file name="DeliveryGateway.cfc" server="H:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" Dst="-1" />
+<file name="DeliveryGateway.cfc" server="N:/wwwroot/mochi/" local="128690092440000000" remote="128690092440000000" Dst="-1" />
+<file name="Delivery.cfc" server="V:/wwwroot/mochi/" local="130338497633653790" remote="130338497630000000" Dst="1" />
+<file name="DeliveryDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633663790" remote="130338497630000000" Dst="1" />
+<file name="DeliveryGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633683790" remote="130338497630000000" Dst="1" />
 </dwsync>

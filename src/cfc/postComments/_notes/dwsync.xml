@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="PostComment.cfc" server="M:/wwwroot/mochi/" local="128632197870000000" remote="128632197870000000" />
-<file name="PostCommentDAO.cfc" server="M:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" />
-<file name="PostCommentGateway.cfc" server="M:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" />
-<file name="PostComment.cfc" server="H:/wwwroot/mochi/" local="128632197870000000" remote="128632197870000000" />
-<file name="PostCommentDAO.cfc" server="H:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" />
-<file name="PostCommentGateway.cfc" server="H:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" />
+<file name="PostComment.cfc" server="M:/wwwroot/mochi/" local="128632197870000000" remote="128632197870000000" Dst="-1" />
+<file name="PostCommentDAO.cfc" server="M:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" Dst="-1" />
+<file name="PostCommentGateway.cfc" server="M:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" Dst="-1" />
+<file name="PostComment.cfc" server="H:/wwwroot/mochi/" local="128632197870000000" remote="128632197870000000" Dst="-1" />
+<file name="PostCommentDAO.cfc" server="H:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" Dst="-1" />
+<file name="PostCommentGateway.cfc" server="H:/wwwroot/mochi/" local="128632197520000000" remote="128632197520000000" Dst="-1" />
+<file name="PostComment.cfc" server="V:/wwwroot/mochi/" local="130338497635403790" remote="130338497630000000" Dst="1" />
+<file name="PostCommentDAO.cfc" server="V:/wwwroot/mochi/" local="130338497635413790" remote="130338497630000000" Dst="1" />
+<file name="PostCommentGateway.cfc" server="V:/wwwroot/mochi/" local="130338497635423790" remote="130338497630000000" Dst="1" />
 </dwsync>

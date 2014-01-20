@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="CollectionGateway.cfc" server="M:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" />
-<file name="Collection.cfc" server="M:/wwwroot/mochi/" local="128635611150000000" remote="128635611150000000" />
-<file name="CollectionDAO.cfc" server="M:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" />
-<file name="Collection.cfc" server="H:/wwwroot/mochi/" local="128635611150000000" remote="128635611150000000" />
-<file name="CollectionDAO.cfc" server="H:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" />
-<file name="CollectionGateway.cfc" server="H:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" />
-<file name="CollectionGateway.cfc" server="N:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" />
+<file name="CollectionGateway.cfc" server="M:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" Dst="-1" />
+<file name="Collection.cfc" server="M:/wwwroot/mochi/" local="128635611150000000" remote="128635611150000000" Dst="-1" />
+<file name="CollectionDAO.cfc" server="M:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" Dst="-1" />
+<file name="Collection.cfc" server="H:/wwwroot/mochi/" local="128635611150000000" remote="128635611150000000" Dst="-1" />
+<file name="CollectionDAO.cfc" server="H:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" Dst="-1" />
+<file name="CollectionGateway.cfc" server="H:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" Dst="-1" />
+<file name="CollectionGateway.cfc" server="N:/wwwroot/mochi/" local="128635610700000000" remote="128635610700000000" Dst="-1" />
+<file name="Collection.cfc" server="V:/wwwroot/mochi/" local="130338497633073790" remote="130338497630000000" Dst="1" />
+<file name="CollectionDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633083790" remote="130338497630000000" Dst="1" />
+<file name="CollectionGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633113790" remote="130338497630000000" Dst="1" />
 </dwsync>

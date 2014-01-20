@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Fitting.cfc" server="M:/wwwroot/mochi/" local="128629546430000000" remote="128629546430000000" />
-<file name="FittingDAO.cfc" server="M:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" />
-<file name="FittingGateway.cfc" server="M:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" />
-<file name="Fitting.cfc" server="H:/wwwroot/mochi/" local="128629546430000000" remote="128629546430000000" />
-<file name="FittingDAO.cfc" server="H:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" />
-<file name="FittingGateway.cfc" server="H:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" />
+<file name="Fitting.cfc" server="M:/wwwroot/mochi/" local="128629546430000000" remote="128629546430000000" Dst="-1" />
+<file name="FittingDAO.cfc" server="M:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" Dst="-1" />
+<file name="FittingGateway.cfc" server="M:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" Dst="-1" />
+<file name="Fitting.cfc" server="H:/wwwroot/mochi/" local="128629546430000000" remote="128629546430000000" Dst="-1" />
+<file name="FittingDAO.cfc" server="H:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" Dst="-1" />
+<file name="FittingGateway.cfc" server="H:/wwwroot/mochi/" local="128629546100000000" remote="128629546100000000" Dst="-1" />
+<file name="Fitting.cfc" server="V:/wwwroot/mochi/" local="130338497634403790" remote="130338497630000000" Dst="1" />
+<file name="FittingDAO.cfc" server="V:/wwwroot/mochi/" local="130338497634423790" remote="130338497630000000" Dst="1" />
+<file name="FittingGateway.cfc" server="V:/wwwroot/mochi/" local="130338497634433790" remote="130338497630000000" Dst="1" />
 </dwsync>

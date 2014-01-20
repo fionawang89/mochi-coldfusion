@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="CopyrightApplicationStatusGateway.cfc" server="M:/wwwroot/mochi/" local="129593006360156250" remote="129593006360000000" />
-<file name="CopyrightApplicationStatus.cfc" server="M:/wwwroot/mochi/" local="129593011751562500" remote="129593011750000000" />
-<file name="CopyrightApplicationStatusDAO.cfc" server="M:/wwwroot/mochi/" local="129593006357187500" remote="129593006350000000" />
-<file name="CopyrightApplicationStatus.cfc" server="N:/wwwroot/mochi/" local="129593011751562500" remote="129593011750000000" />
-<file name="CopyrightApplicationStatusDAO.cfc" server="N:/wwwroot/mochi/" local="129593006357187500" remote="129593006350000000" />
-<file name="CopyrightApplicationStatusGateway.cfc" server="N:/wwwroot/mochi/" local="129593006360156250" remote="129593006360000000" />
+<file name="CopyrightApplicationStatusGateway.cfc" server="M:/wwwroot/mochi/" local="129593006360156250" remote="129593006360000000" Dst="-1" />
+<file name="CopyrightApplicationStatus.cfc" server="M:/wwwroot/mochi/" local="129593011751562500" remote="129593011750000000" Dst="-1" />
+<file name="CopyrightApplicationStatusDAO.cfc" server="M:/wwwroot/mochi/" local="129593006357187500" remote="129593006350000000" Dst="-1" />
+<file name="CopyrightApplicationStatus.cfc" server="N:/wwwroot/mochi/" local="129593011751562500" remote="129593011750000000" Dst="-1" />
+<file name="CopyrightApplicationStatusDAO.cfc" server="N:/wwwroot/mochi/" local="129593006357187500" remote="129593006350000000" Dst="-1" />
+<file name="CopyrightApplicationStatusGateway.cfc" server="N:/wwwroot/mochi/" local="129593006360156250" remote="129593006360000000" Dst="-1" />
+<file name="CopyrightApplicationStatus.cfc" server="V:/wwwroot/mochi/" local="130338497633233790" remote="130338497630000000" Dst="1" />
+<file name="CopyrightApplicationStatusDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633243790" remote="130338497630000000" Dst="1" />
+<file name="CopyrightApplicationStatusGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633253790" remote="130338497630000000" Dst="1" />
 </dwsync>

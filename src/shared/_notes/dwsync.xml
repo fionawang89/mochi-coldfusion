@@ -15,4 +15,9 @@
 <file name="NextNIncludePageLinks.cfm" server="N:/wwwroot/mochi/" local="128641628500000000" remote="128641628500000000" Dst="1" />
 <file name="footer.cfm" server="N:/wwwroot/mochi/" local="128613985150000000" remote="128613985150000000" Dst="-1" />
 <file name="imageUpload.cfm" server="N:/wwwroot/mochi/" local="128654753310000000" remote="128654753310000000" Dst="-1" />
+<file name="footer.cfm" server="V:/wwwroot/mochi/" local="130338497654083790" remote="130338497650000000" Dst="1" />
+<file name="header.cfm" server="V:/wwwroot/mochi/" local="130343915391667910" remote="130343915390000000" Dst="1" />
+<file name="imageUpload.cfm" server="V:/wwwroot/mochi/" local="130338497654103790" remote="130338497650000000" Dst="1" />
+<file name="NextNIncludeBackNext.cfm" server="V:/wwwroot/mochi/" local="130338497654043790" remote="130338497650000000" Dst="1" />
+<file name="NextNIncludePageLinks.cfm" server="V:/wwwroot/mochi/" local="130338497654053790" remote="130338497650000000" Dst="1" />
 </dwsync>

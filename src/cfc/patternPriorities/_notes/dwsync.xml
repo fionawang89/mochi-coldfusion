@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="PatternPriorityGateway.cfc" server="M:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" />
-<file name="PatternPriority.cfc" server="M:/wwwroot/mochi/" local="128631288560000000" remote="128631288560000000" />
-<file name="PatternPriorityDAO.cfc" server="M:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" />
-<file name="PatternPriority.cfc" server="H:/wwwroot/mochi/" local="128631288560000000" remote="128631288560000000" />
-<file name="PatternPriorityDAO.cfc" server="H:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" />
-<file name="PatternPriorityGateway.cfc" server="H:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" />
+<file name="PatternPriorityGateway.cfc" server="M:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" Dst="-1" />
+<file name="PatternPriority.cfc" server="M:/wwwroot/mochi/" local="128631288560000000" remote="128631288560000000" Dst="-1" />
+<file name="PatternPriorityDAO.cfc" server="M:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" Dst="-1" />
+<file name="PatternPriority.cfc" server="H:/wwwroot/mochi/" local="128631288560000000" remote="128631288560000000" Dst="-1" />
+<file name="PatternPriorityDAO.cfc" server="H:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" Dst="-1" />
+<file name="PatternPriorityGateway.cfc" server="H:/wwwroot/mochi/" local="128631286110000000" remote="128631286110000000" Dst="-1" />
+<file name="PatternPriority.cfc" server="V:/wwwroot/mochi/" local="130338497635263790" remote="130338497630000000" Dst="1" />
+<file name="PatternPriorityDAO.cfc" server="V:/wwwroot/mochi/" local="130338497635273790" remote="130338497630000000" Dst="1" />
+<file name="PatternPriorityGateway.cfc" server="V:/wwwroot/mochi/" local="130338497635283790" remote="130338497630000000" Dst="1" />
 </dwsync>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="CopyrightGateway.cfc" server="M:/wwwroot/mochi/" local="129593788980000000" remote="129593788980000000" />
-<file name="Copyright.cfc" server="N:/wwwroot/mochi/" local="129594637673281250" remote="129594637670000000" />
-<file name="CopyrightDAO.cfc" server="N:/wwwroot/mochi/" local="129593788977343750" remote="129593788970000000" />
-<file name="CopyrightGateway.cfc" server="N:/wwwroot/mochi/" local="129593788980000000" remote="129593788980000000" />
+<file name="CopyrightGateway.cfc" server="M:/wwwroot/mochi/" local="129593788980000000" remote="129593788980000000" Dst="-1" />
+<file name="Copyright.cfc" server="N:/wwwroot/mochi/" local="129594637673281250" remote="129594637670000000" Dst="-1" />
+<file name="CopyrightDAO.cfc" server="N:/wwwroot/mochi/" local="129593788977343750" remote="129593788970000000" Dst="-1" />
+<file name="CopyrightGateway.cfc" server="N:/wwwroot/mochi/" local="129593788980000000" remote="129593788980000000" Dst="-1" />
+<file name="Copyright.cfc" server="V:/wwwroot/mochi/" local="130338497633333790" remote="130338497630000000" Dst="1" />
+<file name="CopyrightDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633473790" remote="130338497630000000" Dst="1" />
+<file name="CopyrightGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633483790" remote="130338497630000000" Dst="1" />
 </dwsync>

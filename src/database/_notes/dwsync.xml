@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Mochi.ldb" server="M:/wwwroot/mochi/" local="128650481790000000" remote="128650481790000000" />
-<file name="Mochi.mdb" server="M:/wwwroot/mochi/" local="128650460010000000" remote="128650460010000000" />
+<file name="Mochi.ldb" server="M:/wwwroot/mochi/" local="128650481790000000" remote="128650481790000000" Dst="-1" />
+<file name="Mochi.mdb" server="M:/wwwroot/mochi/" local="128650460010000000" remote="128650460010000000" Dst="-1" />
+<file name="Mochi.ldb" server="V:/wwwroot/mochi/" local="130338497639743790" remote="130338497630000000" Dst="1" />
+<file name="Mochi.mdb" server="V:/wwwroot/mochi/" local="130338497640503790" remote="130338497640000000" Dst="1" />
 </dwsync>

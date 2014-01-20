@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="fabricLabDipStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128859453802656250" remote="128859453800000000" />
-<file name="FabricLabDipStatus.cfc" server="M:/wwwroot/mochi/" local="128859454215937500" remote="128859454210000000" />
-<file name="FabricLabDipStatusDAO.cfc" server="M:/wwwroot/mochi/" local="128859453800000000" remote="128859453800000000" />
-<file name="FabricLabDipStatusGateway.cfc" server="N:/wwwroot/mochi/" local="128859453802656250" remote="128859453800000000" />
-<file name="FabricLabDipStatusDAO.cfc" server="N:/wwwroot/mochi/" local="128859453800000000" remote="128859453800000000" />
-<file name="FabricLabDipStatus.cfc" server="N:/wwwroot/mochi/" local="128859454215937500" remote="128859454210000000" />
-<file name="FabricLabDipStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128859453802656250" remote="128859453800000000" />
+<file name="fabricLabDipStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128859453802656250" remote="128859453800000000" Dst="-1" />
+<file name="FabricLabDipStatus.cfc" server="M:/wwwroot/mochi/" local="128859454215937500" remote="128859454210000000" Dst="-1" />
+<file name="FabricLabDipStatusDAO.cfc" server="M:/wwwroot/mochi/" local="128859453800000000" remote="128859453800000000" Dst="-1" />
+<file name="FabricLabDipStatusGateway.cfc" server="N:/wwwroot/mochi/" local="128859453802656250" remote="128859453800000000" Dst="-1" />
+<file name="FabricLabDipStatusDAO.cfc" server="N:/wwwroot/mochi/" local="128859453800000000" remote="128859453800000000" Dst="-1" />
+<file name="FabricLabDipStatus.cfc" server="N:/wwwroot/mochi/" local="128859454215937500" remote="128859454210000000" Dst="-1" />
+<file name="FabricLabDipStatusGateway.cfc" server="M:/wwwroot/mochi/" local="128859453802656250" remote="128859453800000000" Dst="-1" />
+<file name="FabricLabDipStatus.cfc" server="V:/wwwroot/mochi/" local="130338497633793790" remote="130338497630000000" Dst="1" />
+<file name="FabricLabDipStatusDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633803790" remote="130338497630000000" Dst="1" />
+<file name="FabricLabDipStatusGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633813790" remote="130338497630000000" Dst="1" />
 </dwsync>

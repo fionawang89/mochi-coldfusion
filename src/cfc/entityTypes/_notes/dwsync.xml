@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="EntityTypeGateway.cfc" server="M:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" />
-<file name="EntityType.cfc" server="M:/wwwroot/mochi/" local="128654620170000000" remote="128654620170000000" />
-<file name="EntityTypeDAO.cfc" server="M:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" />
-<file name="EntityType.cfc" server="H:/wwwroot/mochi/" local="128654620170000000" remote="128654620170000000" />
-<file name="EntityTypeDAO.cfc" server="H:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" />
-<file name="EntityTypeGateway.cfc" server="H:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" />
+<file name="EntityTypeGateway.cfc" server="M:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" Dst="-1" />
+<file name="EntityType.cfc" server="M:/wwwroot/mochi/" local="128654620170000000" remote="128654620170000000" Dst="-1" />
+<file name="EntityTypeDAO.cfc" server="M:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" Dst="-1" />
+<file name="EntityType.cfc" server="H:/wwwroot/mochi/" local="128654620170000000" remote="128654620170000000" Dst="-1" />
+<file name="EntityTypeDAO.cfc" server="H:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" Dst="-1" />
+<file name="EntityTypeGateway.cfc" server="H:/wwwroot/mochi/" local="128654620060000000" remote="128654620060000000" Dst="-1" />
+<file name="EntityType.cfc" server="V:/wwwroot/mochi/" local="130338497633743790" remote="130338497630000000" Dst="1" />
+<file name="EntityTypeDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633753790" remote="130338497630000000" Dst="1" />
+<file name="EntityTypeGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633763790" remote="130338497630000000" Dst="1" />
 </dwsync>

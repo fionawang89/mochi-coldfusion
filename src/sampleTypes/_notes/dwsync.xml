@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.cfm" server="M:/wwwroot/mochi/" local="128635595700000000" remote="128635595700000000" />
-<file name="new.cfm" server="M:/wwwroot/mochi/" local="128635599210000000" remote="128635599210000000" />
-<file name="delete.cfm" server="M:/wwwroot/mochi/" local="128627171030000000" remote="128627171030000000" />
-<file name="show.cfm" server="M:/wwwroot/mochi/" local="128635606440000000" remote="128635606440000000" />
-<file name="update.cfm" server="M:/wwwroot/mochi/" local="128635602950000000" remote="128635602950000000" />
+<file name="index.cfm" server="M:/wwwroot/mochi/" local="128635595700000000" remote="128635595700000000" Dst="-1" />
+<file name="new.cfm" server="M:/wwwroot/mochi/" local="128635599210000000" remote="128635599210000000" Dst="-1" />
+<file name="delete.cfm" server="M:/wwwroot/mochi/" local="128627171030000000" remote="128627171030000000" Dst="-1" />
+<file name="show.cfm" server="M:/wwwroot/mochi/" local="128635606440000000" remote="128635606440000000" Dst="-1" />
+<file name="update.cfm" server="M:/wwwroot/mochi/" local="128635602950000000" remote="128635602950000000" Dst="-1" />
+<file name="delete.cfm" server="V:/wwwroot/mochi/" local="130338497653983790" remote="130338497650000000" Dst="1" />
+<file name="index.cfm" server="V:/wwwroot/mochi/" local="130338497653993790" remote="130338497650000000" Dst="1" />
+<file name="new.cfm" server="V:/wwwroot/mochi/" local="130338497654003790" remote="130338497650000000" Dst="1" />
+<file name="show.cfm" server="V:/wwwroot/mochi/" local="130338497654013790" remote="130338497650000000" Dst="1" />
+<file name="update.cfm" server="V:/wwwroot/mochi/" local="130338497654033790" remote="130338497650000000" Dst="1" />
 </dwsync>

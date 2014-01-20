@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="FabricLabDip.cfc" server="M:/wwwroot/mochi/" local="128859517620781250" remote="128859517620000000" />
-<file name="FabricLabDipGateway.cfc" server="M:/wwwroot/mochi/" local="128859456033125000" remote="128859456030000000" />
-<file name="FabricLabDipDAO.cfc" server="M:/wwwroot/mochi/" local="128859456029687500" remote="128859456020000000" />
-<file name="FabricLabDip.cfc" server="H:/wwwroot/mochi/" local="128663370090000000" remote="128663370090000000" />
-<file name="FabricLabDipDAO.cfc" server="H:/wwwroot/mochi/" local="128663366900000000" remote="128663366900000000" />
-<file name="FabricLabDipGateway.cfc" server="H:/wwwroot/mochi/" local="128663425240000000" remote="128663425240000000" />
-<file name="FabricLabDipGateway.cfc" server="N:/wwwroot/mochi/" local="128859456033125000" remote="128859456030000000" />
-<file name="FabricLabDipDAO.cfc" server="N:/wwwroot/mochi/" local="128859456029687500" remote="128859456020000000" />
-<file name="FabricLabDip.cfc" server="N:/wwwroot/mochi/" local="128859517620781250" remote="128859517620000000" />
+<file name="FabricLabDip.cfc" server="M:/wwwroot/mochi/" local="128859517620781250" remote="128859517620000000" Dst="-1" />
+<file name="FabricLabDipGateway.cfc" server="M:/wwwroot/mochi/" local="128859456033125000" remote="128859456030000000" Dst="-1" />
+<file name="FabricLabDipDAO.cfc" server="M:/wwwroot/mochi/" local="128859456029687500" remote="128859456020000000" Dst="-1" />
+<file name="FabricLabDip.cfc" server="H:/wwwroot/mochi/" local="128663370090000000" remote="128663370090000000" Dst="-1" />
+<file name="FabricLabDipDAO.cfc" server="H:/wwwroot/mochi/" local="128663366900000000" remote="128663366900000000" Dst="-1" />
+<file name="FabricLabDipGateway.cfc" server="H:/wwwroot/mochi/" local="128663425240000000" remote="128663425240000000" Dst="-1" />
+<file name="FabricLabDipGateway.cfc" server="N:/wwwroot/mochi/" local="128859456033125000" remote="128859456030000000" Dst="-1" />
+<file name="FabricLabDipDAO.cfc" server="N:/wwwroot/mochi/" local="128859456029687500" remote="128859456020000000" Dst="-1" />
+<file name="FabricLabDip.cfc" server="N:/wwwroot/mochi/" local="128859517620781250" remote="128859517620000000" Dst="-1" />
+<file name="FabricLabDip.cfc" server="V:/wwwroot/mochi/" local="130338497633833790" remote="130338497630000000" Dst="1" />
+<file name="FabricLabDipDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633853790" remote="130338497630000000" Dst="1" />
+<file name="FabricLabDipGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633863790" remote="130338497630000000" Dst="1" />
 </dwsync>

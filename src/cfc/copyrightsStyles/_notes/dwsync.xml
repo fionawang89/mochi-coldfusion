@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="CopyrightStyle.cfc" server="M:/wwwroot/mochi/" local="129594734873281250" remote="129594734870000000" />
-<file name="CopyrightStyleDAO.cfc" server="M:/wwwroot/mochi/" local="129594622115937500" remote="129594622110000000" />
-<file name="CopyrightStyleGateway.cfc" server="M:/wwwroot/mochi/" local="129594622118750000" remote="129594622110000000" />
-<file name="CopyrightStyle.cfc" server="N:/wwwroot/mochi/" local="129594734873281250" remote="129594734870000000" />
-<file name="CopyrightStyleDAO.cfc" server="N:/wwwroot/mochi/" local="129594622115937500" remote="129594622110000000" />
-<file name="CopyrightStyleGateway.cfc" server="N:/wwwroot/mochi/" local="129594622118750000" remote="129594622110000000" />
+<file name="CopyrightStyle.cfc" server="M:/wwwroot/mochi/" local="129594734873281250" remote="129594734870000000" Dst="-1" />
+<file name="CopyrightStyleDAO.cfc" server="M:/wwwroot/mochi/" local="129594622115937500" remote="129594622110000000" Dst="-1" />
+<file name="CopyrightStyleGateway.cfc" server="M:/wwwroot/mochi/" local="129594622118750000" remote="129594622110000000" Dst="-1" />
+<file name="CopyrightStyle.cfc" server="N:/wwwroot/mochi/" local="129594734873281250" remote="129594734870000000" Dst="-1" />
+<file name="CopyrightStyleDAO.cfc" server="N:/wwwroot/mochi/" local="129594622115937500" remote="129594622110000000" Dst="-1" />
+<file name="CopyrightStyleGateway.cfc" server="N:/wwwroot/mochi/" local="129594622118750000" remote="129594622110000000" Dst="-1" />
+<file name="CopyrightStyle.cfc" server="V:/wwwroot/mochi/" local="130338497633513790" remote="130338497630000000" Dst="1" />
+<file name="CopyrightStyleDAO.cfc" server="V:/wwwroot/mochi/" local="130338497633523790" remote="130338497630000000" Dst="1" />
+<file name="CopyrightStyleGateway.cfc" server="V:/wwwroot/mochi/" local="130338497633533790" remote="130338497630000000" Dst="1" />
 </dwsync>
